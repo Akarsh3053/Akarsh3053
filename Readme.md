@@ -8,7 +8,7 @@
 🌱 I’m currently learning DevSecOps<br><br>
 👯 I’m looking to collaborate on AI<br><br>
 💬 Ask me about Cyber Security<br><br>📫 How to reach me onlyakarsh@gmail.com<br><br>
-⚡ Fun fact I think I am Old Anyways I am not
+⚡ Fun fact I think I am Old
 
 
 ## 🌐 Socials:

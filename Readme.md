@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://github.com/Akarsh3053)
 <h1 align="center">Hi 👋, I'm Akarsh Bajpai</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">I am passionate about, Software Development and Cyber Security</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>

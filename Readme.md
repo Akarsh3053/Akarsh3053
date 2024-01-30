@@ -1,11 +1,11 @@
 [![MasterHead](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://github.com/Akarsh3053)
 <h1 align="center">Hi 👋, I'm Akarsh Bajpai</h1>
-<h3 align="center">A Cyber Security and ML Enthusisast</h3>
+<h3 align="center">A Software Developer</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-🔭 I’m currently working on OSINT Project<br><br>
-🌱 I’m currently learning DevSecOps<br><br>
+🔭 I’m currently working on Computer Vision<br><br>
+🌱 I’m currently learning DevOps<br><br>
 👯 I’m looking to collaborate on AI<br><br>
 💬 Ask me about Cyber Security<br><br>📫 How to reach me onlyakarsh@gmail.com<br><br>
 ⚡ Fun fact I think I am Old
